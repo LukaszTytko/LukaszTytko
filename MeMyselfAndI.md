@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LukaszTytko
+- 👀 I’m interested in nothing in particular
+- 🌱 I’m currently learning HTML/CSS/JS/Spanish
+- 📫 How to reach me lukasz.tytko@icloud.com
